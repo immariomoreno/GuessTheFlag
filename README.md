@@ -6,10 +6,15 @@
 
 En **GuessTheFlag**, se presentan tres banderas de países diferentes en cada intento. El usuario debe seleccionar la bandera correspondiente al país indicado. Cada respuesta correcta incrementa la puntuación, mientras que una respuesta incorrecta proporciona retroalimentación sobre la bandera seleccionada.
 
-## 🚀 SwiftUI
+## 🛠️ Tecnologías y Componentes Utilizados
 
-- **Stacks:** El juego usa ZStacks y VStacks para que la interfaz se vea limpia y organizada.
-- **Colors and frames:** Se usan colores para las fuentes y contenedores para que la app luzca bonita.
-- **Gradients:** Gradientes para refrescar la vista principal de la app.
-- **Buttons:** Botones con labels personalizados para darle una apariencia mejor.
-- **Alerts:** Alertas dentro de botones para incorporar scores.
+- **Stacks (`ZStack` y `VStack`):** La interfaz del juego está estructurada utilizando `ZStack` y `VStack`, lo que permite organizar los elementos de manera limpia y coherente.
+
+- **Colores y Marcos:** Se han seleccionado cuidadosamente paletas de colores para las fuentes y contenedores, realzando la apariencia visual de la aplicación. 
+
+- **Gradientes Radiales:** La implementación de gradientes radiales aporta dinamismo y profundidad a la vista principal de la aplicación. 
+
+- **Botones Personalizados:** Los botones están diseñados con etiquetas y estilos personalizados, proporcionando una apariencia moderna y atractiva. 
+
+- **Alertas Interactivas:** Se han incorporado alertas contextuales dentro de los botones para mostrar los puntajes y proporcionar retroalimentación inmediata. 
+
