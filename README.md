@@ -5,7 +5,6 @@
 <a><img alt="Captura de pantalla de juego" width="240" src="images/Simulator Screenshot - iPhone 15 Pro - 2024-09-16 at 16.28.12.png">
 <a><img alt="Captura de pantalla de juego" width="240" src="images/Simulator Screenshot - iPhone 15 Pro - 2024-09-16 at 16.48.09.png">
 <a><img alt="Captura de pantalla de juego" width="240" src="images/Simulator Screenshot - iPhone 15 Pro - 2024-09-16 at 16.48.20.png">
-<a><img alt="Captura de pantalla de juego" width="240" src="images/Simulator Screenshot - iPhone 15 Pro - 2024-09-16 at 16.32.23.png">
 
 
 
